@@ -1,8 +1,13 @@
 KALPTHON- A hackatethon organized by BBD UNIVERSITY.
 # resume-analyser
-Team- TechRaghv
-project-RESUME ANALYSER
-Tech Stack- HTML , CSS, JAVASCRIPT 
+##Team- TechRaghv
+
+##Team members-
+--RAGHVENDRA KUMAR PANDEY,
+--RAJAT KUMAR YADAV
+
+##Project NAME -RESUME ANALYSER
+##Tech Stack- HTML , CSS, JAVASCRIPT 
 DETAIL-
 
 
